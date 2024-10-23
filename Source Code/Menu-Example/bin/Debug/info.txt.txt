@@ -1,0 +1,10 @@
+ NativeItem regularItem = new NativeItem("Regular Item", "This is a regular NativeItem, you can only activate it.");
+ NativeCheckboxItem checkboxItem = new NativeCheckboxItem("Checkbox Item", "This is a NativeCheckboxItem that contains a checkbox that can be turned on and off.", true);
+ NativeDynamicItem<int> dynamicItem = new NativeDynamicItem<int>("Dynamic Item", "This is a NativeDynamicItem that allows you to dynamically change the objects in the list.", 10);
+ NativeListItem<string> listItem = new NativeListItem<string>("List Item", "This is a NativeListItem that allows you to select a pre set number of items.");
+
+ menu.Add(submenu);
+ menu.Add(regularItem);
+ menu.Add(checkboxItem);
+ menu.Add(dynamicItem);
+ menu.Add(listItem);

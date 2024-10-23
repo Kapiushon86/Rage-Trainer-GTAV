@@ -1,0 +1,11 @@
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\bin\Debug\LemonUI.SHVDN3.dll
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\bin\Debug\LemonUI.SHVDN3.xml
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\obj\Debug\Rage-Trainer.csproj.AssemblyReference.cache
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\obj\Debug\Rage-Trainer.csproj.CoreCompileInputs.cache
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\obj\Debug\Rage-Trainer.csproj.CopyComplete
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\bin\Debug\RageTrainer.dll
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\bin\Debug\RageTrainer.pdb
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\obj\Debug\RageTrainer.dll
+C:\Users\defno\source\repos\Rage-Trainer\Source Code\Menu-Example\obj\Debug\RageTrainer.pdb
