@@ -8,6 +8,8 @@ I’m focusing on my new project now, RageMenu, a mod menu for Red Dead Redempti
 
 Thanks to everyone who used RageTrainer!
 
+Main File is script.cs located here - Source Code/Menu-Example/script.cs
+
 Also ps its not that well organized lol.
 
 RageTrainer https://www.nexusmods.com/gta5/mods/756
