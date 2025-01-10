@@ -1,6 +1,6 @@
 RageTrainer is a simple trainer I made a long time ago using the Lemon UI framework. After thinking it over, I’ve decided I won’t be updating or maintaining this project anymore.
 
-The main reason is that C# just isn’t great for mod development—it has too many limitations that hold back what’s possible.
+The main reason is that C# just isn’t great for mod development, it has too many limitations that hold back what’s possible.
 
 I’m making the project open source, so if anyone wants to update it, add features, or mess around with it, they can. From now on, any updates or changes are up to whoever feels like doing it.
 
