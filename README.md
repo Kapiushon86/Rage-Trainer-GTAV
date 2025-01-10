@@ -12,3 +12,7 @@ I’m focusing on my new project now, RageMenu, a mod menu for Red Dead Redempti
 Thanks to everyone who used RageTrainer!
 
 Also ps its not that well organized lol.
+
+RageTrainer https://www.nexusmods.com/gta5/mods/756
+
+![image](https://github.com/user-attachments/assets/df541147-8734-4414-aa26-330bdc399411)
