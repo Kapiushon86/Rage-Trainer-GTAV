@@ -10,3 +10,5 @@ RageTrainer on NexusMods
 I’m focusing on my new project now, RageMenu, a mod menu for Red Dead Redemption 2 made in C++. C++ gets rid of the limits I ran into with C#, so I’m excited to see where it goes.
 
 Thanks to everyone who used RageTrainer!
+
+Also ps its not that well organized lol.
