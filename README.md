@@ -1,2 +1,12 @@
-Rage Trailer was a GTA V sp simple mod menu i developed for the lemmon ui framework a few years back when i was alot less experienced and dumb. Its primary language is coded in C# it includes all your basic features like god mode, sumper jump, infinite ammo, give all weapons, spawn all vehicles etc at that given time, have not worked on this menu since i created it basically. I am releasing the source code simply because I have no use for it so if you find this and either want to compile and use it go ahead or if you just want to upload it to some site and saying you made it crediting yourself go ahead i couldnt care less. Enjoy or dont. Have a nice day. Its all done in one file to so that makes it a pain over 5k lines of code.
-![Screenshot 2024-10-22 220522](https://github.com/user-attachments/assets/7bdc6e3c-5e03-46ba-b772-c0300c732167)
+RageTrainer is a simple trainer I made a long time ago using the Lemon UI framework. After thinking it over, I’ve decided I won’t be updating or maintaining this project anymore.
+
+The main reason is that C# just isn’t great for mod development—it has too many limitations that hold back what’s possible.
+
+I’m making the project open source, so if anyone wants to update it, add features, or mess around with it, they can. From now on, any updates or changes are up to whoever feels like doing it.
+
+You can find the source code here:
+RageTrainer on NexusMods
+
+I’m focusing on my new project now, RageMenu, a mod menu for Red Dead Redemption 2 made in C++. C++ gets rid of the limits I ran into with C#, so I’m excited to see where it goes.
+
+Thanks to everyone who used RageTrainer!
